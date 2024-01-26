@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Roger David Good
+- 👋 Hi, I’m Tony Wayne
 - 👀 I’m interested in Web3 and building solutions
 - 🌱 I’m currently learning Cairo
 - 💞️ I’m looking to collaborate on Cairo projects
-- 📫 How to reach me: rogerdavidgood@gmail.com
+- 📫 How to reach me: tonnyywayyne@gmail.com
 
 <!---
 Roger19923/Roger19923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
